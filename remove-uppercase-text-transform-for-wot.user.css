@@ -1,0 +1,353 @@
+/* ==UserStyle==
+@name           Remove Uppercase Text Transform for World of Trucks
+@namespace      github.com/SpeedyFolf
+@version        1.0.0
+@description    Changes all text-transform: uppercase; to text-transform: none;
+@author         SpeedyFolf
+@homepageURL    https://github.com/SpeedyFolf/usercss
+@supportURL     https://github.com/SpeedyFolf/usercss/issues
+@updateURL      https://raw.githubusercontent.com/SpeedyFolf/usercss/master/remove-uppercase-text-transform-for-wot.user.css
+==/UserStyle== */
+
+@-moz-document domain("worldoftrucks.com")
+
+/* From their CSS file: https://web.archive.org/web/20240110232447/https://www.worldoftrucks.com/css/2763213dcfaa0e040a426decf46f0b52e67d809c/main.css */
+/* Unminified/unprettified/unpacked/deobfuscated with https://unminify.com at tab size 4 */
+
+    {}
+/* Line 139 */
+.btn {
+    text-transform: none;
+}
+/* Line 158 */
+input[type="submit"] {
+    text-transform: none;
+}
+/* Line 199 */
+select {
+    text-transform: none;
+}
+/* Line 232 */
+.form-group .title {
+    text-transform: none;
+}
+/* Line 338 */
+.menu a {
+    text-transform: none;
+}
+/* Line 425 */
+.search-result a {
+    text-transform: none;
+}
+/* Line 475 */
+.open-beta .footer-wide .open-beta-bar {
+    text-transform: none;
+}
+/* Line 505 */
+.footer a {
+    text-transform: none;
+}
+/* Line 567 */
+h1 {
+    text-transform: none;
+}
+/* Line 576 */
+h2 {
+    text-transform: none;
+}
+/* Line 592 */
+.error,
+.error-block,
+.success,
+.warning {
+    text-transform: none;
+}
+/* Line 660 */
+.tooltip.hint .title {
+    text-transform: none;
+}
+/* Line 685 */
+.popup-box .title {
+    text-transform: none;
+}
+/* Line 703 */
+.popup-box .prefix {
+    text-transform: none;
+}
+/* Line 715 */
+.popup-box .button {
+    text-transform: none;
+}
+/* Line 725 */
+.submenu {
+    text-transform: none;
+}
+/* Line 772 */
+.pagination {
+    text-transform: none;
+}
+/* Line 1035 */
+.gallery-container .navigation {
+    text-transform: none;
+}
+/* Line 1085 */
+.meta-box .img-info .author,
+.meta-box-detail .img-info .author {
+    text-transform: none;
+}
+/* Line 1108 */
+.meta-box .img-info .img-stats div .title,
+.meta-box-detail .img-info .img-stats div .title {
+    text-transform: none;
+}
+/* Line 1249 */
+.comments .intro {
+    text-transform: none;
+}
+/* Line 1261 */
+.comments .intro .value {
+    text-transform: none;
+}
+/* Line 1308 */
+.comments .info .author {
+    text-transform: none;
+}
+/* Line 1393 */
+.homepage-main .open-beta-info .header {
+    text-transform: none;
+}
+/* Line 1425 */
+.header-wide .promo .title {
+    text-transform: none;
+}
+/* Line 1495 */
+.hot-news-box .hot-news-item .info .title {
+    text-transform: none;
+}
+/* Line 1507 */
+.hot-news-box .hot-news-item .info .link {
+    text-transform: none;
+}
+/* Line 1526 */
+.latest-news-box .news-item .link {
+    text-transform: none;
+}
+/* Line 1567 */
+.global-events .global-event .global-event-title {
+    text-transform: none;
+}
+/* Line 1632 */
+.global-events .global-event .xmas18 .community-stats-title {
+    text-transform: none;
+}
+/* Line 1656 */
+.global-events .global-event .hero20 .community-stats-title {
+    text-transform: none;
+}
+/* Line 1702 */
+.global-events .event-xmas23 .header-extension .community-stats-title {
+    text-transform: none;
+}
+/* Line 1730 */
+.global-events .event-xmas23 .games .game-column .game-name {
+    text-transform: none;
+}
+/* Line 1739 */
+.global-events .event-xmas23 .games .game-column .table-header {
+    text-transform: none;
+}
+/* Line 1779 */
+.global-events .event-xmas23 .games .game-column .game-scoll .group {
+    text-transform: none;
+}
+/* Line 1837 */
+.global-events .event-genoa20 .community-stats-title {
+    text-transform: none;
+}
+/* Line 1896 */
+.register .frame .button span {
+    text-transform: none;
+}
+/* Line 1923 */
+.register-form .game .title {
+    text-transform: none;
+}
+/* Line 2000 */
+.profile-frame .stats .name {
+    text-transform: none;
+}
+/* Line 2021 */
+.profile-frame .sharing .title {
+    text-transform: none;
+}
+/* Line 2055 */
+.profile-trucks .game {
+    text-transform: none;
+}
+/* Line 2069 */
+.profile-trucks .name {
+    text-transform: none;
+}
+/* Line 2082 */
+.profile-trucks .info .row div {
+    text-transform: none;
+}
+/* Line 2142 */
+.current-jobs .block .job .title,
+.job-history .block .job .title {
+    text-transform: none;
+}
+/* Line 2162 */
+.current-jobs .block .job .row .name,
+.job-history .block .job .row .name {
+    text-transform: none;
+}
+/* Line 2170 */
+.current-jobs .block .job .row .distance,
+.job-history .block .job .row .distance {
+    text-transform: none;
+}
+/* Line 2188 */
+.current-jobs .block .job .time .text,
+.job-history .block .job .time .text {
+    text-transform: none;
+}
+/* Line 2233 */
+.tooltip.job-info .title {
+    text-transform: none;
+}
+/* Line 2257 */
+.modal.job-info .title {
+    text-transform: none;
+}
+/* Line 2268 */
+.modal.job-info .name {
+    text-transform: none;
+}
+/* Line 2290 */
+.modal.job-info .button {
+    text-transform: none;
+}
+/* Line 2299 */
+.modal.job-info .description .row {
+    text-transform: none;
+}
+/* Line 2353 */
+.job-stats-global .stat .name {
+    text-transform: none;
+}
+/* Line 2370 */
+.job-stats-detail .row > div {
+    text-transform: none;
+}
+/* Line 2436 */
+.achievements .progress {
+    text-transform: none;
+}
+/* Line 2472 */
+.modal.achievement .title {
+    text-transform: none;
+}
+/* Line 2483 */
+.modal.achievement .name {
+    text-transform: none;
+}
+/* Line 2505 */
+.modal.achievement .button {
+    text-transform: none;
+}
+/* Line 2523 */
+.tooltip.achievement .title {
+    text-transform: none;
+}
+/* Line 2564 */
+.profile-events .delivery-event .delivery-event-title {
+    text-transform: none;
+}
+/* Line 2607 */
+.events .event .game {
+    text-transform: none;
+}
+/* Line 2642 */
+.events .detail .name {
+    text-transform: none;
+}
+/* Line 2703 */
+.page-customize .group-units .row > div {
+    text-transform: none;
+}
+/* Line 2723 */
+.page-customize .group-units select {
+    text-transform: none;
+}
+/* Line 2836 */
+.page-options .game .title {
+    text-transform: none;
+}
+/* Line 2869 */
+.search-results table th:nth-child(2),
+.search-results table td:nth-child(2) {
+    text-transform: none;
+}
+/* Line 2932 */
+.modal.report-box .title {
+    text-transform: none;
+}
+/* Line 2993 */
+.support-search-results table th {
+    text-transform: none;
+}
+/* Line 3095 */
+.support-view-job-info .job .title {
+    text-transform: none;
+}
+/* Line 3111 */
+.support-view-job-info .job .row .name {
+    text-transform: none;
+}
+/* Line 3117 */
+.support-view-job-info .job .row .distance {
+    text-transform: none;
+}
+/* Line 3132 */
+.support-view-job-info .job .time .text {
+    text-transform: none;
+}
+/* Line 3163 */
+.support-view-registrations table th {
+    text-transform: none;
+}
+/* Line 3246 */
+.support-edit-registrations table th {
+    text-transform: none;
+}
+/* Line 3365 */
+.management-tools .section-title {
+    text-transform: none;
+}
+/* Line 3398 */
+.open-beta-modal .title {
+    text-transform: none;
+}
+/* Line 3409 */
+.open-beta-modal .name {
+    text-transform: none;
+}
+/* Line 3431 */
+.open-beta-modal .button {
+    text-transform: none;
+}
+/* Line 3440 */
+.open-beta-modal .description .header {
+    text-transform: none;
+}
+/* Line 3453 */
+.tos-confirm-box .section-header {
+    text-transform: none;
+}
+/* Line 3543 */
+.cc_div *,
+.cc_div :before,
+.cc_div :after {
+    text-transform: none;
+}
