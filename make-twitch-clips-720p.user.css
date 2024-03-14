@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           Make Twitch clips 720p
+@namespace      github.com/SpeedyFolf
+@version        1.0.0
+@description    Makes the video player on the Twitch clips page exactly 1280x720
+@author         SpeedyFolf
+@homepageURL    https://github.com/SpeedyFolf/usercss
+@supportURL     https://github.com/SpeedyFolf/usercss/issues
+@updateURL      https://raw.githubusercontent.com/SpeedyFolf/usercss/master/make-twitch-clips-720p.user.css
+==/UserStyle== */
+
+@-moz-document url-prefix("https://clips.twitch.tv/") {
+.clips-watch { max-width: 1620px; }
+}
