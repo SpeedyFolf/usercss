@@ -10,5 +10,6 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://clips.twitch.tv/") {
-.clips-watch { max-width: 1620px; }
+/* .clips-watch { max-width: 1620px; } */ /* Pre redesign*/
+.clips-watch { max-width: 1621px; }
 }
